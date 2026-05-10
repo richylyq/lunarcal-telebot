@@ -1,0 +1,3 @@
+python-telegram-bot
+lunar-python
+python-dotenv
