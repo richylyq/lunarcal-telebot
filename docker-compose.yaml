@@ -2,6 +2,3 @@ services:
   lunar-bot:
     build: .
     restart: always
-    environment:
-      - TELEGRAM_TOKEN=8760184211:AAH_RpKTb4RmMlwj-CQc6mokZ9pW03IyggA
-      - TELEGRAM_USER_ID=yuquanrl
